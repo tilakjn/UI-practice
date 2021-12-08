@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: static;
+}
+.one{
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+.square{
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: relative;
+left: 150px;
+top:50px;
+}
+.circle{
+width: 100px;
+height: 100px;
+border: 1px solid red;
+border-radius: 50%;
+position: absolute;
+
+}
+.h5{
+    position: sticky;
+}
